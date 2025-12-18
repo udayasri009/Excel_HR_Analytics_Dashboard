@@ -1,2 +1,5 @@
-# Excel_HR_Analytics_Dashboard
-This project focuses on analyzing HR data to uncover insights related to employee performance, attrition, and workforce trends. The analysis helps HR teams make data-driven decisions to improve retention, productivity, and organizational planning.
+# HR-Analytics-Dashboard (Interactive Dashboard Creation Using Excel)
+## Project Objective
+To analyze HR data in Excel and identify key trends in employee attrition, performance, and demographics to support effective HR decision-making.
+
+## Dataset used
