@@ -32,4 +32,4 @@ To analyze HR data in Excel and identify key trends in employee attrition, perfo
 - Add filters and design layout
 
 ## Dashboard
-"https://github.com/udayasri009/Excel_HR_Analytics_Dashboard/blob/main/DASHBOARD.IMG.png
+C:\Users\chirr\OneDrive\Pictures\DASHBOARD.IMG.png"https://github.com/udayasri009/Excel_HR_Analytics_Dashboard/blob/main/DASHBOARD.IMG.png
