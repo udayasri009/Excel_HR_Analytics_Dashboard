@@ -17,5 +17,4 @@ To analyze HR data in Excel and identify key trends in employee attrition, perfo
 - Which marital status category shows higher attrition?
 - What is the average age of employees?
 - How does job satisfaction impact attrition?
-
--<a href = "https://github.com/udayasri009/Excel_HR_Analytics_Dashboard/blob/main/HR%20DATA_Excel.xlsx">View Dashboard"</a>
+-<a href = "https://github.com/udayasri009/Excel_HR_Analytics_Dashboard/blob/main/HR%20DATA_Excel.xlsx">View Dashboard</a>
