@@ -22,4 +22,13 @@ To analyze HR data in Excel and identify key trends in employee attrition, perfo
 - View attrition by **Education Field**
 - Interactive slicers for better insights
 
--Dashboard Interactions <a href = "https://github.com/udayasri009/Excel_HR_Analytics_Dashboard/blob/main/HR%20DATA_Excel.xlsx">View Dashboard</a>
+- Dashboard Interactions <a href = "https://github.com/udayasri009/Excel_HR_Analytics_Dashboard/blob/main/HR%20DATA_Excel.xlsx">View Dashboard</a>
+
+## process
+- Collect HR data
+- Clean and prepare data, Remove errors/duplicates, fix date and text formats
+- Load data then Import the cleaned Excel/CSV data
+- Create KPIs and charts
+- Add filters and design layout
+
+## Dashboard
