@@ -32,4 +32,10 @@ To analyze HR data in Excel and identify key trends in employee attrition, perfo
 - Add filters and design layout
 
 ## Dashboard
-C:\Users\chirr\OneDrive\Pictures\DASHBOARD.IMG.png"https://github.com/udayasri009/Excel_HR_Analytics_Dashboard/blob/main/DASHBOARD.IMG.png
+"https://github.com/udayasri009/Excel_HR_Analytics_Dashboard/blob/main/DASHBOARD.IMG.png
+
+## Project Insight
+The dashboard highlights overall headcount, attrition, and active employees, then breaks attrition down by gender, age, education, department, role, and marital status. This allows HR to see high‑risk groups and patterns in a single view.
+
+## Final Conclusion
+This HR analysis dashboard in Excel gives a clear, data‑driven view of employee attrition by showing overall headcount, attrition, and active employees, then breaking attrition down by gender, age, education, department, job role, and marital status so HR can quickly identify high‑risk groups and trends and design targeted retention actions instead of relying on guesswork.
